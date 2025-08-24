@@ -1,0 +1,18 @@
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+python-dateutil>=2.8.2
+pytz>=2023.3
+requests>=2.31.0
+
+# Real Text-to-Speech engines
+pyttsx3>=2.90
+gtts>=2.4.0
+pygame>=2.5.0
+
+# Audio processing for MP3 conversion
+pydub>=0.25.1
+
+# Optional: For actual IBM Watson integration (when implementing real services)
+# ibm-watson>=7.0.1
+# ibm-cloud-sdk-core>=3.16.7
